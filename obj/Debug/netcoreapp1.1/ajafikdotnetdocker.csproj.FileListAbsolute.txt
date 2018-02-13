@@ -1,0 +1,8 @@
+/Users/terragon/Downloads/ajafik/ajafikdotnetdocker/bin/Debug/netcoreapp1.1/ajafikdotnetdocker.deps.json
+/Users/terragon/Downloads/ajafik/ajafikdotnetdocker/bin/Debug/netcoreapp1.1/ajafikdotnetdocker.runtimeconfig.json
+/Users/terragon/Downloads/ajafik/ajafikdotnetdocker/bin/Debug/netcoreapp1.1/ajafikdotnetdocker.runtimeconfig.dev.json
+/Users/terragon/Downloads/ajafik/ajafikdotnetdocker/bin/Debug/netcoreapp1.1/ajafikdotnetdocker.dll
+/Users/terragon/Downloads/ajafik/ajafikdotnetdocker/bin/Debug/netcoreapp1.1/ajafikdotnetdocker.pdb
+/Users/terragon/Downloads/ajafik/ajafikdotnetdocker/obj/Debug/netcoreapp1.1/ajafikdotnetdocker.AssemblyInfo.cs
+/Users/terragon/Downloads/ajafik/ajafikdotnetdocker/obj/Debug/netcoreapp1.1/ajafikdotnetdocker.dll
+/Users/terragon/Downloads/ajafik/ajafikdotnetdocker/obj/Debug/netcoreapp1.1/ajafikdotnetdocker.pdb
